@@ -1,5 +1,18 @@
 {
+	"auto_complete": true,
 	"auto_complete_commit_on_tab": true,
+	"auto_complete_delay": 50,
+	"auto_complete_triggers":
+	[
+		{
+			"characters": "<",
+			"selector": "text.html"
+		},
+		{
+			"characters": "/",
+			"selector": "string.quoted.double.html,string.quoted.single.html, source.css"
+		}
+	],
 	"auto_complete_with_fields": true,
 	"bold_folder_labels": true,
 	"caret_extra_bottom": 2,
@@ -42,5 +55,5 @@
 	"trim_automatic_white_space": true,
 	"wide_caret": false,
 	"word_wrap": true,
-	"wrap_width": 120
+	"wrap_width": 110
 }
