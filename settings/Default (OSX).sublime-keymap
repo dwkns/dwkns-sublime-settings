@@ -1,5 +1,21 @@
 [
 {
+    "keys": ["enter"],
+    "command": "commit_completion",
+    "context": [
+    {
+        "key": "auto_complete_visible"
+    }]
+},
+{
+    "keys": ["tab"],
+    "command": "commit_completion",
+    "context": [
+    {
+        "key": "auto_complete_visible"
+    }]
+},
+{
     "keys": ["command+shift+r"],
     "command": "reindent"
 },
@@ -25,7 +41,7 @@
 },
 {
     "keys": ["command+alt+j"],
-    "command": "HTMLPrettif"
+    "command": "htmlprettify"
 },
 {
     "keys": ["command+t"],
@@ -46,21 +62,4 @@
     {
         "file": "res://Packages/Default/Delete Line.sublime-macro"
     }
-},
-{
-    "keys": ["enter"],
-    "command": "commit_completion",
-    "context": [
-    {
-        "key": "auto_complete_visible"
-    }]
-},
-{
-    "keys": ["tab"],
-    "command": "commit_completion",
-    "context": [
-    {
-        "key": "auto_complete_visible"
-    }]
-}
-]
+}]
