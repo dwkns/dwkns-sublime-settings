@@ -1,0 +1,9 @@
+// Requires some node modules to be installed.
+// npm install -g @babel/core @babel/node @babel/cli @babel/preset-env
+
+{
+ "cmd": ["/usr/local/bin/babel-node --no-babelrc $file"],
+ "shell": true,
+ "selector": "source.js"
+}
+
