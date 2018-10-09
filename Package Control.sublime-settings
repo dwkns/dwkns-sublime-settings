@@ -1,0 +1,30 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"All Autocomplete",
+		"Boxy Theme",
+		"BracketHighlighter",
+		"CSS3",
+		"Emmet",
+		"HTML-CSS-JS Prettify",
+		"jQuery",
+		"Package Control",
+		"PackageResourceViewer",
+		"Pretty Ruby",
+		"Ruby Completions",
+		"ScopeAlways",
+		"SCSS",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"SublimeLinter-json",
+		"SublimeLinter-ruby",
+		"SublimeREPL",
+		"SummitLinter"
+	]
+}
