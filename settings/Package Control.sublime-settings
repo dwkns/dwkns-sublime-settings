@@ -20,6 +20,7 @@
 		"ScopeAlways",
 		"SCSS",
 		"SideBarEnhancements",
+		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-jshint",
 		"SublimeLinter-json",
