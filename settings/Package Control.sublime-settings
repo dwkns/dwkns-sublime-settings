@@ -21,11 +21,6 @@
 		"SCSS",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
-		"SublimeLinter",
-		"SublimeLinter-jshint",
-		"SublimeLinter-json",
-		"SublimeLinter-ruby",
-		"SublimeREPL",
-		"SummitLinter"
+		"SublimeREPL"
 	]
 }
