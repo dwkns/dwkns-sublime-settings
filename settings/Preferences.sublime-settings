@@ -3,17 +3,6 @@
 	"auto_complete_commit_on_tab": true,
 	"auto_complete_delay": 50,
 	"auto_complete_selector": "source, text",
-	"auto_complete_triggers":
-	[
-		{
-			"characters": ".",
-			"selector": "source, text.html"
-		},
-		{
-			"characters": "<",
-			"selector": "text.html"
-		}
-	],
 	"auto_complete_with_fields": true,
 	"bold_folder_labels": true,
 	"caret_extra_bottom": 2,
