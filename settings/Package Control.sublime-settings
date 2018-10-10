@@ -20,7 +20,8 @@
 		"ScopeAlways",
 		"SCSS",
 		"SideBarEnhancements",
-		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-eslint",
 		"SublimeREPL"
 	]
 }
