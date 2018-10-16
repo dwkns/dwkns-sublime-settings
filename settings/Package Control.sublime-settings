@@ -7,6 +7,7 @@
 	[
 		"A File Icon",
 		"All Autocomplete",
+		"Babel",
 		"Boxy Theme",
 		"BracketHighlighter",
 		"CSS3",
@@ -20,8 +21,10 @@
 		"ScopeAlways",
 		"SCSS",
 		"SideBarEnhancements",
+		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-eslint",
-		"SublimeREPL"
+		"SublimeREPL",
+		"TerminalView"
 	]
 }

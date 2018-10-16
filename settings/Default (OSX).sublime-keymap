@@ -1,4 +1,16 @@
 [
+    {
+        "keys": ["command+alt+3"],
+        "command": "set_layout",
+        "args":
+        {
+            "cols": [0.0, 0.5, 1.0 ],
+            "rows": [0.0, 0.5, 1.0 ],
+            "cells": [
+                [0, 0, 1, 2],[1, 0, 2, 1],[1, 1, 2, 2]
+            ]
+        }
+    },
 {
     "keys": ["enter"],
     "command": "commit_completion",
