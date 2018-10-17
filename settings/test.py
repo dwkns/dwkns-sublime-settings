@@ -8,7 +8,7 @@ def do_window_thing():
         # window.run_command("terminal_view_open")
 
 def plugin_loaded():
-    # do_window_thing()
+    do_window_thing()
     print("----plugin loaded now----")
 
 class DoSomethingCommand(sublime_plugin.TextCommand):

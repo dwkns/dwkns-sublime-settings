@@ -1,5 +1,9 @@
 [
     {
+        "keys": ["command+alt+t"],
+        "command": "terminal_view_open"
+    },
+    {
         "keys": ["command+alt+3"],
         "command": "set_layout",
         "args":
