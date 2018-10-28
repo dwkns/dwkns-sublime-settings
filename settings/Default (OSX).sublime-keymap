@@ -1,81 +1,128 @@
-[
-    {
-        "keys": ["command+alt+t"],
-        "command": "terminal_view_open"
-    },
-    {
-        "keys": ["command+alt+3"],
-        "command": "set_layout",
-        "args":
+    [
         {
-            "cols": [0.0, 0.5, 1.0 ],
-            "rows": [0.0, 0.5, 1.0 ],
-            "cells": [
-                [0, 0, 1, 2],[1, 0, 2, 1],[1, 1, 2, 2]
-            ]
+            "keys": ["command+alt+t"],
+            "command": "terminus_open",
+            "args":
+            {
+                "config_name": "Default",
+                "pre_window_hooks": [
+                    ["set_layout",
+                    {
+                        "cols": [0.0, 0.5, 1.0],
+                        "rows": [0.0, 0.5, 1.0],
+                        "cells": [
+                            [0, 0, 1, 2],
+                            [1, 0, 2, 1],
+                            [1, 1, 2, 2]
+                        ]
+                    }],
+                    ["focus_group",
+                    {
+                        "group": 2
+                    }]
+                ]
+            }
+        },
+        {
+            "keys": ["command+w"],
+            "command": "terminus_keypress",
+            "args":
+            {
+                "key": ""
+            },
+            "context": [
+            {
+                "key": "terminus_view"
+            }]
+        },
+        // {
+        //     "keys": ["command+v"],
+        //     "command": "terminus_keypress",
+        //     "args":
+        //     {
+        //         "key": ""
+        //     },
+        //     "context": [
+        //     {
+        //         "key": "terminus_view"
+        //     }]
+        // },
+        {
+            "keys": ["command+alt+3"],
+            "command": "set_layout",
+            "args":
+            {
+                "cols": [0.0, 0.5, 1.0],
+                "rows": [0.0, 0.5, 1.0],
+                "cells": [
+                    [0, 0, 1, 2],
+                    [1, 0, 2, 1],
+                    [1, 1, 2, 2]
+                ]
+            }
+        },
+        {
+            "keys": ["enter"],
+            "command": "commit_completion",
+            "context": [
+            {
+                "key": "auto_complete_visible"
+            }]
+        },
+        {
+            "keys": ["tab"],
+            "command": "commit_completion",
+            "context": [
+            {
+                "key": "auto_complete_visible"
+            }]
+        },
+        {
+            "keys": ["command+shift+r"],
+            "command": "reindent"
+        },
+        {
+            "keys": ["shift+f12"],
+            "command": "reindent",
+            "args":
+            {
+                "single_line": false
+            }
+        },
+        {
+            "keys": ["alt+down"],
+            "command": "run_macro_file",
+            "args":
+            {
+                "file": "Packages/User/dwkns-sublime-settings/macros/jump_to_eol_create_new_line.sublime-macro"
+            }
+        },
+        {
+            "keys": ["command+alt+r"],
+            "command": "beautify_ruby"
+        },
+        {
+            "keys": ["command+alt+j"],
+            "command": "htmlprettify"
+        },
+        {
+            "keys": ["command+t"],
+            "command": "new_file"
+        },
+        {
+            "keys": ["super+v"],
+            "command": "paste_and_indent"
+        },
+        {
+            "keys": ["super+shift+v"],
+            "command": "paste"
+        },
+        {
+            "keys": ["command+shift+k"],
+            "command": "run_macro_file",
+            "args":
+            {
+                "file": "res://Packages/Default/Delete Line.sublime-macro"
+            }
         }
-    },
-{
-    "keys": ["enter"],
-    "command": "commit_completion",
-    "context": [
-    {
-        "key": "auto_complete_visible"
-    }]
-},
-{
-    "keys": ["tab"],
-    "command": "commit_completion",
-    "context": [
-    {
-        "key": "auto_complete_visible"
-    }]
-},
-{
-    "keys": ["command+shift+r"],
-    "command": "reindent"
-},
-{
-    "keys": ["shift+f12"],
-    "command": "reindent",
-    "args":
-    {
-        "single_line": false
-    }
-},
-{
-    "keys": ["alt+down"],
-    "command": "run_macro_file",
-    "args":
-    {
-        "file": "Packages/User/dwkns-sublime-settings/macros/jump_to_eol_create_new_line.sublime-macro"
-    }
-},
-{
-    "keys": ["command+alt+r"],
-    "command": "beautify_ruby"
-},
-{
-    "keys": ["command+alt+j"],
-    "command": "htmlprettify"
-},
-{
-    "keys": ["command+t"],
-    "command": "new_file"
-},
-{
-    "keys": ["super+v"],
-    "command": "paste_and_indent"
-},
-{
-    "keys": ["super+shift+v"],
-    "command": "paste"
-},
-{
-    "keys": ["command+shift+k"],
-    "command": "run_macro_file",
-    "args":
-    {
-        "file": "res://Packages/Default/Delete Line.sublime-macro"
-    }
-}]
+    ]

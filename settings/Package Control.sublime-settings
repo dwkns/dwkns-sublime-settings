@@ -7,25 +7,28 @@
 	[
 		"A File Icon",
 		"All Autocomplete",
+		"AutoFileName",
 		"Babel",
 		"Boxy Theme",
 		"BracketHighlighter",
+		"ColorPicker",
 		"CSS3",
 		"Emmet",
 		"HTML-CSS-JS Prettify",
-		"JavaScript Enhancements",
 		"jQuery",
 		"Package Control",
 		"PackageResourceViewer",
 		"Pretty Ruby",
 		"Ruby Completions",
+		"Sass",
 		"ScopeAlways",
 		"SCSS",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-eslint",
+		"SublimePeek-R-help",
 		"SublimeREPL",
-		"TerminalView"
+		"Terminus"
 	]
 }
