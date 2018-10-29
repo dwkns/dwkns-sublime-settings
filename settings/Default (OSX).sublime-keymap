@@ -1,6 +1,6 @@
     [
         {
-            "keys": ["command+alt+t"],
+            "keys": ["alt+super+t"],
             "command": "terminus_open",
             "args":
             {
@@ -124,5 +124,5 @@
             {
                 "file": "res://Packages/Default/Delete Line.sublime-macro"
             }
-        }
+        },
     ]

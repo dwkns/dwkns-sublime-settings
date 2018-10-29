@@ -27,6 +27,7 @@
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-eslint",
+		"SublimeLinter-json",
 		"SublimePeek-R-help",
 		"SublimeREPL",
 		"Terminus"
