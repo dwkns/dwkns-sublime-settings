@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[/*eslint-disable no-undef*/]]></content>
-  <tabTrigger>esundefined</tabTrigger>
+  <tabTrigger>eslundefined</tabTrigger>
   <description>ESLint - eslint-disable no-undef</description>
   <scope>source.js</scope>
 </snippet>

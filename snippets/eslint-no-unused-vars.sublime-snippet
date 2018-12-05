@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[/*eslint-disable no-unused-vars*/]]></content>
-  <tabTrigger>esunused</tabTrigger>
+  <tabTrigger>eslunused</tabTrigger>
   <description>ESLint - eslint-disable no-unused-vars</description>
   <scope>source.js</scope>
 </snippet>

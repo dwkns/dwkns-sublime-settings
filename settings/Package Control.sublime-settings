@@ -7,7 +7,6 @@
 	[
 		"A File Icon",
 		"All Autocomplete",
-		"AutoFileName",
 		"Babel",
 		"Boxy Theme",
 		"BracketHighlighter",
@@ -30,6 +29,7 @@
 		"SublimeLinter-json",
 		"SublimePeek-R-help",
 		"SublimeREPL",
-		"Terminus"
+		"Terminus",
+		"Vue Syntax Highlight"
 	]
 }
