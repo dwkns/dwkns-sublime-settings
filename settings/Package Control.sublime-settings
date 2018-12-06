@@ -6,15 +6,11 @@
 	"installed_packages":
 	[
 		"A File Icon",
-		"All Autocomplete",
 		"Babel",
 		"Boxy Theme",
 		"BracketHighlighter",
-		"ColorPicker",
-		"CSS3",
 		"Emmet",
 		"HTML-CSS-JS Prettify",
-		"jQuery",
 		"Package Control",
 		"PackageResourceViewer",
 		"Pretty Ruby",
@@ -23,13 +19,10 @@
 		"ScopeAlways",
 		"SCSS",
 		"SideBarEnhancements",
-		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-eslint",
 		"SublimeLinter-json",
 		"SublimePeek-R-help",
-		"SublimeREPL",
 		"Terminus",
-		"Vue Syntax Highlight"
 	]
 }
