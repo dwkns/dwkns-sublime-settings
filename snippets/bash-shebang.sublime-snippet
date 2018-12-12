@@ -1,9 +1,9 @@
 <snippet>
   <content><![CDATA[
-#!/usr/bin/env ruby
+#!/usr/bin/env bash
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
   <tabTrigger>#</tabTrigger>
   <!-- Optional: Set a scope to limit where the snippet will trigger -->
-  <scope>source.ruby</scope>
+  <scope>source.shell</scope>
 </snippet>
