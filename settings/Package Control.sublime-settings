@@ -9,8 +9,8 @@
 		"Babel",
 		"Boxy Theme",
 		"BracketHighlighter",
-		"Emmet",
 		"HTML-CSS-JS Prettify",
+		"JavaScript Enhancements",
 		"Package Control",
 		"PackageResourceViewer",
 		"Pretty Ruby",
@@ -22,7 +22,7 @@
 		"SublimeLinter",
 		"SublimeLinter-eslint",
 		"SublimeLinter-json",
-		"SublimePeek-R-help",
-		"Terminus",
+		"TerminalView",
+		"Terminus"
 	]
 }

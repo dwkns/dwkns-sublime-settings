@@ -5,6 +5,7 @@
             "args":
             {
                 "config_name": "Default",
+                "cwd": "${file_path:${folder}}",
                 "pre_window_hooks": [
                     ["set_layout",
                     {
