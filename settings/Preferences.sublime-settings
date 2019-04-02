@@ -33,7 +33,7 @@
 	"save_on_focus_lost": false,
 	"scroll_past_end": true,
 	"tab_size": 4,
-	"theme": "Boxy Tomorrow.sublime-theme",
+	"theme": "Adaptive.sublime-theme",
 	"theme_accent_blue": true,
 	"theme_font_lg": true,
 	"theme_icons_atomized": true,
