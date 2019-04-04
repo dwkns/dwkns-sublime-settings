@@ -54,11 +54,7 @@
         "brackets_foreground": "var(purple)",
         "bracket_contents_options": "underline",
         "bracket_contents_foreground": "color(var(white3) alpha(0.65))",
-        "tags_options": "stippled_underline",
-        "fold_marker": "var(caret)",
-        "popup_css": "",
-        "gutter": "",
-        "gutter_foreground": "var(default_text_colour)"
+        
     },
     "rules":
     [
