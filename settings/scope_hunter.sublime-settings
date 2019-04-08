@@ -38,7 +38,7 @@
     ///////////////////////////
 
     // Show scope extent in point format
-    "extent_points": false,
+    "extent_points": true,
 
     // Show scope extent in line/char format
     "extent_line_char": false,
@@ -72,7 +72,7 @@
     ///////////////////////////
 
     // Automatically copy scopes to clipboard
-    "clipboard": false,
+    "clipboard": true,
 
     // Allow multi-select scope hunting
     "multiselect": true,

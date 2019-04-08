@@ -7,25 +7,19 @@
 	[
 		"A File Icon",
 		"Babel",
-		"Boxy Theme",
 		"BracketHighlighter",
 		"ColorPicker",
 		"HTML-CSS-JS Prettify",
-		"JavaScript Enhancements",
-		"LSP",
 		"Package Control",
 		"PackageResourceViewer",
 		"Pretty Ruby",
-		"Ruby Completions",
 		"Sass",
-		"ScopeAlways",
 		"ScopeHunter",
 		"SCSS",
 		"SideBarEnhancements",
 		"SublimeLinter",
 		"SublimeLinter-eslint",
 		"SublimeLinter-json",
-		"TerminalView",
 		"Terminus"
 	]
 }
