@@ -19,6 +19,8 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
+		"Boxy Theme",
+		"TerminalView",
 		"Vintage"
 	],
 	"indent_guide_options":
@@ -32,7 +34,7 @@
 	"open_files_in_new_window": true,
 	"save_on_focus_lost": false,
 	"scroll_past_end": true,
-	"tab_size": 4,
+	"tab_size": 2,
 	"theme": "A3.sublime-theme",
 	"theme_accent_blue": true,
 	"theme_font_lg": true,
