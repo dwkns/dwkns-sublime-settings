@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[if (${1:someVar == someThing}) {
+    $2
+};]]></content>
+  <tabTrigger>if</tabTrigger>
+  <description>JS - If block</description>
+  <scope>source.js</scope>
+</snippet>
