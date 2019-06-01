@@ -34,6 +34,7 @@
 	"open_files_in_new_window": true,
 	"save_on_focus_lost": false,
 	"scroll_past_end": true,
+	"show_definitions": false,
 	"tab_size": 2,
 	"theme": "A3.sublime-theme",
 	"theme_accent_blue": true,
@@ -48,6 +49,5 @@
 	"trim_automatic_white_space": true,
 	"wide_caret": false,
 	"word_wrap": true,
-	"wrap_width": 130,
-	"show_definitions": false
+	"wrap_width": 130
 }
