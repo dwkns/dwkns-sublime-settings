@@ -20,6 +20,8 @@
 	"ignored_packages":
 	[
 		"Boxy Theme",
+		"BracketHighlighter",
+		"ScopeHunter",
 		"TerminalView",
 		"Vintage"
 	],
