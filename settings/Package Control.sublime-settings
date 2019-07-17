@@ -2,19 +2,18 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"BracketHighlighter",
-		"ScopeHunter"
 	],
 	"installed_packages":
 	[
 		"A File Icon",
 		"Babel",
+		"BeautifyRuby",
 		"BracketHighlighter",
 		"ColorPicker",
 		"HTML-CSS-JS Prettify",
+		"MarkdownPreview",
 		"Package Control",
 		"PackageResourceViewer",
-		"Pretty Ruby",
 		"Sass",
 		"ScopeHunter",
 		"SCSS",
