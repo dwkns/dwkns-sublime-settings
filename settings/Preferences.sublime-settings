@@ -49,5 +49,8 @@
 	"trim_automatic_white_space": true,
 	"wide_caret": false,
 	"word_wrap": true,
-	"wrap_width": 130
+	"wrap_width": 130,
+
+	  "node_path": "/Users/dazza/.nvm/versions/node/v10.18.1/bin/node"
+	
 }
