@@ -50,7 +50,5 @@
 	"wide_caret": false,
 	"word_wrap": true,
 	"wrap_width": 130,
-
-	  "node_path": "/Users/dazza/.nvm/versions/node/v10.18.1/bin/node"
-	
+	"node_path": "/usr/local/bin/node"
 }
