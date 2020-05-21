@@ -31,6 +31,7 @@
 	"index_files": true,
 	"line_padding_bottom": 0,
 	"line_padding_top": 1,
+	"node_path": "/usr/local/bin/node",
 	"open_files_in_new_window": true,
 	"save_on_focus_lost": false,
 	"scroll_past_end": true,
@@ -49,6 +50,5 @@
 	"trim_automatic_white_space": true,
 	"wide_caret": false,
 	"word_wrap": true,
-	"wrap_width": 130,
-	"node_path": "/usr/local/bin/node"
+	"wrap_width": 130
 }
