@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[<p>${1:paragraph text}</p>]]></content>
+  <tabTrigger>p</tabTrigger>
+  <description>JS - p Tag in JS</description>
+  <scope>source.js</scope>
+</snippet>

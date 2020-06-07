@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[(${1:params}) => {
+  return (
+    ${2:<div>
+      
+    </div>}
+  )
+}]]></content>
+  <tabTrigger>af</tabTrigger>
+  <description>JS - React arrow function</description>
+  <scope>source.js</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[class="${1:className}"]]></content>
+  <tabTrigger>cla</tabTrigger>
+  <description>JS - class attribute in JS</description>
+  <scope>source.js</scope>
+</snippet>
